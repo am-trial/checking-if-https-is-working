@@ -1,0 +1,2 @@
+
+Terminal event generation test
